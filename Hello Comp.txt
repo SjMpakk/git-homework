@@ -1,2 +1,0 @@
-print ("Hello Comp")
-print ("Hello All")
